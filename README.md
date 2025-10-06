@@ -6,7 +6,7 @@ gantt
 
     %% -- FASE 1 --
     section Módulo de Login (Entrega Semana 3)
-    Requisitos e Análise    :done,   id_req, 0w, 1w
+    Requisitos e Análise    :done,   id_req, 1w
     Design e Documentação   :done,   id_doc, after id_req, 1w
     Desenvolvimento (Login) :active, id_dev1, after id_doc, 1w
     Testes (Login)          :        id_tst1, after id_dev1, 3d
